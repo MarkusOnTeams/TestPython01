@@ -1,4 +1,6 @@
 # https://openpyxl.readthedocs.io/en/stable/
+# neues Workbook erstellen, befüllen und speichern
+
 from openpyxl import Workbook
 wb = Workbook()
 
